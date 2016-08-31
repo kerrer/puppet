@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/max/vagrant/r10k","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
